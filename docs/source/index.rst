@@ -44,4 +44,4 @@ Innhold
 .. important::
 
     Denne nettsiden er del av Trekroner prosjektet og vedlegg til 
-    `NINA Rapport xxxx <http://www.nina.no/>`_
+    `NINA Rapport 2337 <https://brage.nina.no/nina-xmlui/handle/11250/3134268>`_.
